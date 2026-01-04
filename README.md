@@ -1,0 +1,1 @@
+# Static-Structural-Analysis-of-1D-Stepped-Beam
